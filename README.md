@@ -13,6 +13,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+![Screenshot (150)](https://github.com/user-attachments/assets/448ba928-deff-415a-95b8-6addf71671f0)
+![Screenshot (151)](https://github.com/user-attachments/assets/e9965bf9-f508-40ee-8d4f-14f35421ad48)
 
 ### `npm test`
 
